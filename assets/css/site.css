@@ -1,0 +1,107 @@
+
+
+/* ======= header ======= */
+.header{
+
+	background-image:url(../../image/header.jpg)
+	background: #222;
+    background-repeat: no-repeat;
+    background-position: center 0;
+    background-size: cover;
+    padding: 138px 0 0;
+    text-align: center;
+    min-height: 400px;
+    position: relative;
+}
+
+.logoimg {
+
+    position: absolute;
+    left: 1%;
+    right: 1%;
+    bottom: -34px;
+}
+
+.main{
+	margin-top:90px;
+}
+
+.media{
+	background-color:#f5f5f5;
+	padding:80px 0;
+
+}
+
+
+/* ======= Contact Section ======= */
+.contact {
+  background-color: #56bc94;
+  color: #fff;
+  padding: 80px 0;
+}
+
+.intro a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.social-icons{
+ margin-top:60px;
+}
+
+.social-icons li{ 
+ margin-left:10px;
+
+}
+
+.social-icons a{	
+  display: inline-block;
+  background: #3fa07a;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  padding-top: 12px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.social-icons a .fa {
+    color: #fff;
+	font-size: x-large;
+}
+
+.contact .contact-form .form-control {
+  border-color: #fff;
+  height: auto;
+  padding: 10px 15px;
+}
+.contact .contact-form .btn-theme {
+  background-color: #317b5e;
+  margin-top: 15px;
+}
+
+/* ======= About me ======= */
+.story{
+
+padding:80px 0;
+
+}
+
+.content li{
+
+padding-top:10px;
+
+}
+
+
+
+/* ======= footer ======= */
+.footer {
+    background: #444444;
+    color: #fff;
+    padding: 15px 0;
+}
+
